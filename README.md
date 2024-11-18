@@ -4,7 +4,6 @@
 
 </div>
 
-[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 
 A simple Mathematical utility for Humans
 
@@ -46,7 +45,7 @@ A simple AI mathematician powered by OpenAI's GPT-4o model.
 
 ### Details
 - Model API: GPT-4o; Gemini(integratable)
-- Latency: 3-4 seconds (GPT-4o)
+- Latency: 3-4 seconds (Gemini)
 - Support: Images, LateX, Markdown
 - Interface: Streamlit
 
@@ -80,27 +79,8 @@ streamlit run SocraticOmni.py
 ```
 
 ## Results 📊
-<p align="center"><img src="https://github.com/akshaybahadur21/BLOB/blob/master/soc.gif" height="450px"></p>
-
-<p align="center"><img src="https://github.com/akshaybahadur21/BLOB/blob/master/soc_plot.gif" height="450px"></p>
-
-<p align="center"><img src="https://github.com/akshaybahadur21/BLOB/blob/master/scoratic_omni.gif" height="450px"></p>
-
-<p align="center"><img src="https://github.com/akshaybahadur21/BLOB/blob/master/socr_omni.gif" height="450px"></p>
-
-## Cite Us :pushpin:
-
-```
-@article{akshaybahadur21_socratic,
-author = {Bahadur, Akshay},
-journal = {https://github.com/akshaybahadur21/Socratic},
-month = {04},
-title = {{Socratic}},
-year = {2024}
-}
-```
-
-###### Made with ❤️ and 🦙 by Akshay Bahadur
+<p align="center"><img src="https://github.com/AbhinavShimpi19/PR/blob/3b01f63125fc0d25ff9065efdf5b8c5a17a42ead/Screencast%20from%2018-11-24%2010%3A15%3A42%20AM%20IST.webm" height="450px"></p>
+###### Made with ❤️ and 🦙 by Abhinav Shimpi and Team
 
 ## References 🔱
  
